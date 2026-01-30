@@ -1,0 +1,2 @@
+#print("AKTAU")
+print("ALmaty")

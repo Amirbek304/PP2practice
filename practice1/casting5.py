@@ -1,0 +1,6 @@
+x = (4)  
+y = (6.8) 
+z = ("c7") 
+print(type(x))
+print(type(y))
+print(type(z))

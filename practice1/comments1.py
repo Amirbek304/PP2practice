@@ -1,0 +1,1 @@
+print("Lionel messi is goat") #Ronaldo is goat
