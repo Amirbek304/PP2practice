@@ -3,8 +3,8 @@ class Person:
     myobject.name = name
     myobject.age = age
 
-  def greet(abc):
-    print("Hello, my name is " + abc.name)
+  def greet(myobject):
+    print("Hello, my name is " + myobject.name)
 
 p1 = Person("Baktygul", 56)
 p1.greet()
